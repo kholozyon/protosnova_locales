@@ -1,8 +1,90 @@
 {
     "key":"lol",
-    "value": "values",
-    "cases": "cases",
-    "process": "process",
-    "contact": "contact us",
-    "blog": "blog"
+    "idea":"IDEA",
+    "implementation":"IMPLEMENTATION",
+    "launch":"We Launch Prototypes Into Space",
+    "slogan": {
+        "title": "Digital, Delivered",
+        "text1":"When launching a startup, the ability to receive quick feedback from users can be the difference between success and failure.",
+        "text2":"Prototyping is a great way to assess the value of your product with users.",
+        "text3":"At PROTOS, we create prototypes starting with paper sketches and turn them into products ready for launch."
+    },
+    "value": {
+        "nav":"values",
+        "title":"Our Values",
+        "value1":"Flexible Cost",
+        "value2":"Development Methodology",
+        "value3":"Progressive Technologies",
+        "value4":"Creative Team",
+        "text1":"Open negotiating with every client allows us to provide independent pricing based on the project and its complexity.",
+        "text2":"Being agile in our thinking, we follow the Scrum process because it provides us with greater flexibility while enabling our team to deliver completed software development projects in a timely manner.",
+        "text3":"We build leading edge technology products designed to enhance the value of your business.",
+        "text4":"We are a team that believes in dreaming with our eyes open. Filled with ideas and innovative thinking, we are driven to build great technology products and services."
+    },
+    "technologies": "Technologies We Use",
+    "audit": {
+        "title":"Technical Audit",
+        "subtitle":"Do you doubt the correctness of the chosen technology? We will help you to take the right solution stack. Let’s discuss it."
+    },
+    "advantages": {
+        "title":"Advantages",
+        "advantageTitle1":"Zero bureaucracy",
+        "advantageTitle2":"Quick onboarding",
+        "advantageTitle3":"Flexibility",
+        "advantageTitle4":"Progressive stack",
+        "advantageText1":"We don't spend valuable time on paperwork, but we try to run the project as soon as possible.",
+        "advantageText2":"We find right people for your project in a short period of time, which allows you to avoid long waiting before the launch.",
+        "advantageText3":"We adapt to demands of the business and the market, so we can determine the best format of cooperation for both sides.",
+        "advantageText4":"We create progressive and scalable projects using modern technologies that will be relevant for the coming years."
+    },
+    "mvp": {
+        "title":"MVP phase",
+        "subtitle":"Do you have a bright idea for the project? We will help you to develop the rock-solid MVP. Let's talk."
+    },
+    "cases": {
+        "nav":"cases",
+        "title":"Best Cases",
+        "caseText1":"Internal CRM System for the real estate sector.",
+        "caseText2":"Mobile Application for the petroleum company.",
+        "caseText3":"Ridesharing application for Ukraine and Australia.",
+        "caseText4":"Application that reflects the constantly changing landscape of the news.",
+        "caseText5":"Single Page Application (SPA) for the script supervising.",
+        "caseText6":"Application for searching events in Ukraine."
+    },
+    "process": {
+        "nav":"process",
+        "title":"Our Process",
+        "process1":"Where are we flying?",
+        "process2":"Shuttle or Rocket",
+        "process3":"Modeling a Spaceship",
+        "process4":"Working out the details",
+        "process5":"Building a Spaceship",
+        "process6":"Takeoff!",
+        "processText1":"Let’s say hello to each other. We want to know your idea and offer introductory price, terms and technologies.",
+        "processText2":"Create sketches of your future prototype in form of schematic drafts which could be used as a base for next steps.",
+        "processText3":"We write specifications and create a black-and-white product wireframes of your product based on the discovery phase.",
+        "processText4":"Turn your black and white wireframes into a modern and clean UI that rocks! Our design meets all demands of the market.",
+        "processText5":"We build and test a high-level working prototype which has everything to be named as the Millenium Falcon.",
+        "processText6":"Your product is ready to conquer the galaxy!"
+    },
+    "offer":"Want more details? Get our extended presentation",
+    "testimonials": {
+        "title":"Clients Say About Us",
+        "review1":"I would like to thank PROTOS for their passion in taking care of clients. After few weeks I started to feel like my project is their child. Literally working whole days to reach deadlines and make perfect solutions. The contributions made by PROTOS have been critical in getting our project in time for the target customer.",
+        "review2":"Since 2016, PROTOS has proven to be an excellent long-term partner and integral part of our ongoing development strategy. We have found them to be very reliable and able to adapt to our industry. The communication was easy, the progress was as planned, and results were above our expectations. We will not hesitate to work with PROTOS in the future.",
+        "review3":"PROTOS is a top-notch development company that really understands what it does. During my time with this company, I have never encountered the fact that something was being imposed on me. On the contrary, I always had a choice. I liked the care they provided to my project. I definitely recommend to use the services of PROTOS.",
+        "reviewAuthor1":"Valeria, BDM at CityClinique",
+        "reviewAuthor2":"Jeff, BDM at Lake Oil Ltd.",
+        "reviewAuthor3":"Jim Welch, CEO at NewsMap"
+    },
+    "placeholder": {
+        "name":"Your Name",
+        "email":"Email Address",
+        "number":"Contact Number",
+        "message":"Your Message",
+        "send":"Send",
+        "submit":"Submit"
+    },
+    "contact":"contact us",
+    "blog":"blog"
 }
