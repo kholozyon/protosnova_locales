@@ -1,5 +1,4 @@
 {
-    "key":"lol",
     "idea":"IDEA",
     "implementation":"IMPLEMENTATION",
     "launch":"We Launch Prototypes Into Space",
@@ -86,5 +85,6 @@
         "submit":"Submit"
     },
     "contact":"contact us",
-    "blog":"blog"
+    "blog":"blog",
+    "copy":"Established"
 }
